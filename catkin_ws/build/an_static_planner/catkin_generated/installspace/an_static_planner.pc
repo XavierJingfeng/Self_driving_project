@@ -1,0 +1,8 @@
+prefix=/home/xavier/Self_driving_project/catkin_ws/install
+
+Name: an_static_planner
+Description: Description of an_static_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xavier/Self_driving_project/catkin_ws/install/lib 
+Requires: 

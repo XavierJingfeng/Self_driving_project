@@ -1,0 +1,8 @@
+prefix=/home/xavier/Self_driving_project/catkin_ws/devel
+
+Name: an_dynamic_planner
+Description: Description of an_dynamic_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xavier/Self_driving_project/catkin_ws/devel/lib 
+Requires: 
